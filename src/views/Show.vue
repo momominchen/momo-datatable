@@ -22,7 +22,7 @@
                     label: 'area',
                     value: 'china' // the value of the current column after setting value is 'china'
                 }, {
-                    label: '操作',
+                    label: 'action',
                     component: 'myActions' // support for custom components
                 }],
                 url: 'xxxx', // backend data interface url
