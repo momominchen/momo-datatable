@@ -2,6 +2,9 @@
 
 > vue2.0 datatable
 
+## npm
+npm install momo-datatable
+
 ## Build Setup
 
 ``` bash
